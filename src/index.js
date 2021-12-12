@@ -1,1 +1,1 @@
-import './js/countries.js'
+import './js/loadImg'
