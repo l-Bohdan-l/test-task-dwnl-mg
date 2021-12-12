@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,aACE,WACF,CAEA,iBACE,UAAW,CACX,WACF","file":"styles.1e5b6366.css","sourceRoot":"../src","sourcesContent":[".img-preview {\n  width: 300px;\n}\n\n.img-preview img {\n  width: 100%;\n  height: auto;\n}\n"]}
